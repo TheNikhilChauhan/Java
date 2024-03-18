@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "02.Variables",
+    "02.01.Data Types",
+    "01.First Program",
+    "02.02.Literals"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}
