@@ -18,3 +18,19 @@
     <li>Unary Operator</li>
     
 </ul>
+<h4>04.If-Else</h4>
+<ul>
+    <li>Odd Even</li>
+    <li>Age Group</li>
+    <li>Switch</li>
+</ul>
+<h4>05.Loops</h4>
+<ul>
+    <li>While</li>
+    <li>SumOfNums</li>
+    <li>For</li>
+    <li>DoWhile</li>
+    <li>Print first multiple</li>
+    <li>Continue Keyword</li>
+    <li>Count the number of digits</li>
+</ul>
