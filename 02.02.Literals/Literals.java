@@ -15,6 +15,7 @@ public class Literals {
 	
 	    double num5=56;
 	    System.out.println(num5);
+
 	
 	    double num6=12e10;
 	    System.out.println(num6);
