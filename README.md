@@ -33,4 +33,6 @@
     <li>Print first multiple</li>
     <li>Continue Keyword</li>
     <li>Count the number of digits</li>
+    <li>Sum of Digits</li>
+    <li>Reverse Digits</li>
 </ul>
