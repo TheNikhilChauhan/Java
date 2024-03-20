@@ -43,5 +43,9 @@
 <ul>
     <li>Rectangular Pattern</li>
     <li>Hollow Rectangular Pattern</li>
+    <li>Triangular Pattern</li>
+    <li>Inverted Triangle</li>
+    <li>Pyramid Pattern</li>
+    <li></li>
     <li></li>
 </ul>
