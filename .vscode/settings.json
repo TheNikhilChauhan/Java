@@ -1,10 +1,10 @@
 {
   "java.project.sourcePaths": [
-    "02.Variables",
+    "02.03.Taking Input",
     "02.02.Literals",
     "02.01.Data Types",
     "01.First Program",
-    "02.03.Taking Input"
+    "03.Operators"
   ],
   "java.debug.settings.onBuildFailureProceed": true
 }

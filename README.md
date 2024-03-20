@@ -7,5 +7,12 @@
 <ul>
     <li>02.01.Data Types</li>
     <li>02.02.Literals</li>
-    <li>02.03</li>
+    <li>02.03. Taking Input</li>
+</ul>
+<h4>03.Operators</h4>
+<ul>
+    <li>Arithmetic Operator</li>
+    <li>Relational Operator</li>
+    <li>Logical Operator</li>
+    <li></li>
 </ul>
