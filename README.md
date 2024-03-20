@@ -39,3 +39,9 @@
     <li>Factorial</li>
     <li>Power</li>
 </ul>
+<h4>Pattern Printing</h4>
+<ul>
+    <li>Rectangular Pattern</li>
+    <li>Hollow Rectangular Pattern</li>
+    <li></li>
+</ul>
