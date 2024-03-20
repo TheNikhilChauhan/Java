@@ -14,5 +14,7 @@
     <li>Arithmetic Operator</li>
     <li>Relational Operator</li>
     <li>Logical Operator</li>
-    <li></li>
+    <li>Assignment Operator</li>
+    <li>Unary Operator</li>
+    
 </ul>
