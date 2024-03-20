@@ -35,4 +35,7 @@
     <li>Count the number of digits</li>
     <li>Sum of Digits</li>
     <li>Reverse Digits</li>
+    <li>Sum of Series</li>
+    <li>Factorial</li>
+    <li>Power</li>
 </ul>
