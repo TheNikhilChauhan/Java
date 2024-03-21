@@ -46,6 +46,9 @@
     <li>Triangular Pattern</li>
     <li>Inverted Triangle</li>
     <li>Pyramid Pattern</li>
-    <li></li>
-    <li></li>
+    <li>Numerical Rectangular Pattern</li>
+    <li>Other Numerical Pattern</li>
+    <li>Numerical Triangle</li>
+    <li>Numericla Pyramid</li>
+    <li>Hollow Numerical Triangle</li>
 </ul>
