@@ -52,3 +52,10 @@
     <li>Numericla Pyramid</li>
     <li>Hollow Numerical Triangle</li>
 </ul>
+<h4>Functions</h4>
+<ul>
+    <li>Functions</li>
+    <li>Constructor</li>
+    <li></li>
+    <li></li>
+</ul>
