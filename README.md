@@ -69,7 +69,8 @@
                 <li>Reverse an Array</li>
                 <li>Minimum value in array</li>
                 <li>Second maximum value in array</li>
-                <li></li>
+                <li>Move all 0's at the end of array</li>
+                <li>Resize an Array</li>
                 <li></li>
             </ul>
         </li>
