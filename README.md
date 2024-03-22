@@ -58,6 +58,7 @@
     <li>Constructor</li>
     
 </ul>
+
 <h3>DSA</h3>
 <ul>
     <li>Arrays
@@ -71,13 +72,27 @@
                 <li>Second maximum value in array</li>
                 <li>Move all 0's at the end of array</li>
                 <li>Resize an Array</li>
+                <li>Find missing Number</li>
+                <li>Palindrome</li>
                 <li></li>
             </ul>
         </li>
-        <li></li>
-        <li></li>
     </ul>
     </li>
+    <li>Linked List
+    <ul>
+        <li>Singly Linked List
+        <ul>
+            <li><li>
+            <li><li>
+            <li><li>
+        </ul>
+        <li>
+        <li>Doubly Linked List<li>
+        <li>Circular Singly Linked List<li>
+    </ul>
+    </li>
+    <li>Stacks</li>
     <li></li>
     <li></li>
 </ul>
