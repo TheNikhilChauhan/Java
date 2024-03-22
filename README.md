@@ -56,6 +56,25 @@
 <ul>
     <li>Functions</li>
     <li>Constructor</li>
+    
+</ul>
+<h3>DSA</h3>
+<ul>
+    <li>Arrays
+    <ul>
+        <li>One-D Array
+            <ul>
+                <li>1-D Array</li>
+                <li>Remove even integers from an array</li>
+                <li>Reverse an Array</li>
+                <li></li>
+                <li></li>
+            </ul>
+        </li>
+        <li></li>
+        <li></li>
+    </ul>
+    </li>
     <li></li>
     <li></li>
 </ul>
