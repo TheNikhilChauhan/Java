@@ -67,6 +67,8 @@
                 <li>1-D Array</li>
                 <li>Remove even integers from an array</li>
                 <li>Reverse an Array</li>
+                <li>Minimum value in array</li>
+                <li>Second maximum value in array</li>
                 <li></li>
                 <li></li>
             </ul>
