@@ -86,7 +86,8 @@
             <li>Creating Singly Linked List<li>
             <li>Creating and Printing Linked list<li>
             <li>Length of a Singly Linked List<li>
-            <li><li>
+            <li>Insert nodes at the beginning of Singly Linked List<li>
+            <li>Insert nodes at the end of Singly Linked List<li>
             <li><li>
         </ul>
         <li>

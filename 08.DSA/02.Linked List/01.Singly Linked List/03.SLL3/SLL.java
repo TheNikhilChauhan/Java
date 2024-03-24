@@ -16,6 +16,9 @@ public class SLL {
     }
 
     public int CountLength(){
+        if(head == null){
+            return 0;
+        }
         int count = 0;
         ListNode current = head;
         while(current != null){
