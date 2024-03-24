@@ -89,8 +89,8 @@
             <li>SLL4: Insert nodes at the beginning of Singly Linked List<li>
             <li>SLL5: Insert nodes at the end of Singly Linked List<li>
             <li>SLL6: Insert nodes at a given position in Singly Linked List<li>
-            <li><li>
-            <li><li>
+            <li>SLL7: Delete first node<li>
+            <li>SLL8: Delete last node<li>
         </ul>
         <li>
         <li>Doubly Linked List<li>
