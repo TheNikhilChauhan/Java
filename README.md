@@ -91,6 +91,7 @@
             <li>SLL6: Insert nodes at a given position in Singly Linked List<li>
             <li>SLL7: Delete first node<li>
             <li>SLL8: Delete last node<li>
+            <li>SLL9: Delete a node from a given position</li>
         </ul>
         <li>
         <li>Doubly Linked List<li>
