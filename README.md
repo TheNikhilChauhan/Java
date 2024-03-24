@@ -92,6 +92,9 @@
             <li>SLL7: Delete first node<li>
             <li>SLL8: Delete last node<li>
             <li>SLL9: Delete a node from a given position</li>
+            <li>Search an element</li>
+            <li>Reverse a Linked list</li>
+            <li></li>
         </ul>
         <li>
         <li>Doubly Linked List<li>
