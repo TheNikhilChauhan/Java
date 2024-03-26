@@ -100,6 +100,7 @@
             <li>SLL15: Remove a key from singly linked list</li>
             <li>SLL16: Detect a loop in Singly linked list</li>
             <li>SLL17: Find start of loop in a Singly linked list</li>
+            <li>SLL18: Remove loop from a singly linked list</li>
             <li></li>
         </ul>
         <li>
