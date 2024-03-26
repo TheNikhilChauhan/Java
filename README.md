@@ -92,8 +92,12 @@
             <li>SLL7: Delete first node<li>
             <li>SLL8: Delete last node<li>
             <li>SLL9: Delete a node from a given position</li>
-            <li>Search an element</li>
-            <li>Reverse a Linked list</li>
+            <li>SLL10: Search an element</li>
+            <li>SLL11: Reverse a Linked list</li>
+            <li>SLL12: Find nth node from the end</li>
+            <li>SLL13: Remove duplicates from sorted linked list</li>
+            <li>SLL14: Insert a node in a sorted linked list</li>
+            <li></li>
             <li></li>
         </ul>
         <li>
