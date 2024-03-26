@@ -93,11 +93,13 @@
             <li>SLL8: Delete last node<li>
             <li>SLL9: Delete a node from a given position</li>
             <li>SLL10: Search an element</li>
-            <li>SLL11: Reverse a Linked list</li>
+            <li>SLL11: Reverse a Singly Linked list</li>
             <li>SLL12: Find nth node from the end</li>
-            <li>SLL13: Remove duplicates from sorted linked list</li>
-            <li>SLL14: Insert a node in a sorted linked list</li>
-            <li></li>
+            <li>SLL13: Remove duplicates from sorted Singly linked list</li>
+            <li>SLL14: Insert a node in a sorted Singly linked list</li>
+            <li>SLL15: Remove a key from singly linked list</li>
+            <li>SLL16: Detect a loop in Singly linked list</li>
+            <li>SLL17: Find start of loop in a Singly linked list</li>
             <li></li>
         </ul>
         <li>
