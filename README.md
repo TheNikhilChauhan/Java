@@ -101,6 +101,8 @@
             <li>SLL16: Detect a loop in Singly linked list</li>
             <li>SLL17: Find start of loop in a Singly linked list</li>
             <li>SLL18: Remove loop from a singly linked list</li>
+            <li>SLL19: Merge two sorted singly linked lists</li>
+            <li>SLL20: Add two singly linked list</li>
             <li></li>
         </ul>
         <li>
