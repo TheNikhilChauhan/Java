@@ -110,6 +110,8 @@
             <li>Printing doubly linked list</li>
             <li>Insert node at the beginning </li>
             <li>Insert node at the end</li>
+            <li>Delete first node</li>
+            <li>Delete last node</li>
             <li></li>
         </ul>
         <li>
