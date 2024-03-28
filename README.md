@@ -103,10 +103,15 @@
             <li>SLL18: Remove loop from a singly linked list</li>
             <li>SLL19: Merge two sorted singly linked lists</li>
             <li>SLL20: Add two singly linked list</li>
+        </ul>
+        <li>
+        <li>Doubly Linked List
+        <ul>
+            <li>Printing doubly linked list</li>
+            <li>Insert node at the beginning </li>
             <li></li>
         </ul>
         <li>
-        <li>Doubly Linked List<li>
         <li>Circular Singly Linked List<li>
     </ul>
     </li>
