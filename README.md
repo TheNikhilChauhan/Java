@@ -109,6 +109,7 @@
         <ul>
             <li>Printing doubly linked list</li>
             <li>Insert node at the beginning </li>
+            <li>Insert node at the end</li>
             <li></li>
         </ul>
         <li>
